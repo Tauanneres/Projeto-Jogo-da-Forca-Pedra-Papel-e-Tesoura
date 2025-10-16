@@ -46,4 +46,4 @@ Implementação em **Python** dos dois
 jogos.py
 4.Escolha o jogo desejado no menu interativo.
 
---- **TAUAN NERES**
+ **TAUAN NERES**
